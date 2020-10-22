@@ -1,0 +1,38 @@
+.bezpozadi {
+    border: 3px solid blue;
+    height: 120px;
+    width: 1278px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+
+}
+
+.modry {
+    background-color: blue;
+    height: 80px;
+    width: 80px;
+}
+
+.spozadi {
+    border: 3px solid blue;
+    height: 120px;
+    width: 1278px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
+
+.fialovy {
+    background-color: purple;
+    height: 80px;
+    width: 80px;
+}
+
+.spozadi:hover {
+    background-color: orangered;
+}
