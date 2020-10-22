@@ -1,0 +1,146 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Josefin Sans' sans-serif;
+  font-size: 20px;
+  color: #222;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width; 1400px;
+ 
+}
+
+header {
+  font-family: 'Abril Fatface';
+  font-style: bold;  
+  color: black;
+  background: no-repeat center url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+  width: 600px;
+  height: 800px;
+  background-size: auto;
+  display: flex;
+  flex-direction: column-reverse;
+
+ }
+
+div.jmenovka {
+  margin: 0px 0px 0px 110px;
+
+}
+ 
+h1 {
+  font-size: 70px;
+  padding: 2px;
+  margin: 0px 0px 100px 100px;
+}
+
+
+h2 {
+  margin-bottom: 50px;
+  text-transform: uppercase;
+}
+
+h3 {
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.silne {
+    font-weight: bold;    
+}
+
+ul {
+  margin: 20px;  
+}
+
+li {
+  padding: 5px;
+}
+
+.zaklad {
+  line-height: 1.7;
+  font-size: 18px;
+  width: 590px;
+  padding: 20px;
+}
+
+.citace {
+  font-family: 'Abril Fatface';
+  font-size: 45px;
+  color: white;
+  width: 800px;
+  background: transparent;
+  color: white;
+  display: flex;
+  margin: 0px 0px 48px -55px;
+  
+}
+
+blockquote::before {
+    content: '\201c';
+    font-size: 120px;
+    background: transparent;
+    color: white;
+    position: relative;
+    top: 10px; 
+    left: 50px;  
+
+}
+
+#citace1 {
+  background: #222;
+  padding: 30px;
+  vertical-align: middle;
+  width: 542px;
+
+
+}
+
+quotepostion {
+  margin: 0px;
+
+}
+
+p.sub {
+/*   font-family: 'Merriweather'; */
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 0px;
+  line-height: 1.5;
+}
+
+p.sub2 {
+/*   font-family: 'Merriweather'; */
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 0px;
+}
+
+p.tenke {
+  font-weight: lighter;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+ul.smaller {
+  font-size: 14px;
+}
+
+hr {
+    border: 1px solid #222;
+    color: #222;
+    width: 840px;
+}
+
+#prsnl {
+  margin-bottom: 0px;
+
+}
+
+#lastsect {
+ position: relative;
+ left: -200px;
+
+}
