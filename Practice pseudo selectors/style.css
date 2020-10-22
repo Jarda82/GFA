@@ -1,0 +1,19 @@
+.zvyrazneni {
+    width: 300px;
+
+}
+
+.prvni:hover {
+    background-color: brown;
+}
+
+.druhy:hover {
+    background-color: brown;
+}
+.treti:hover {
+    background-color: brown;
+}
+
+.ctvrty:hover {
+    background-color: brown;
+}
