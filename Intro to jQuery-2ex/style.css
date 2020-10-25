@@ -1,0 +1,33 @@
+main {
+  border: 4px solid #4285f4;
+  color: white;
+  text-align: center;
+  width: 205px;
+  margin: 0px;
+  font-family: 'Spartan', sans-serif;
+  font-weight: bold;
+  }
+
+.red {
+  background: #E67676;
+  padding: 20px;
+  margin: 0px 0px 0px 0px;
+}
+
+.yellow {
+  background: #F2F062;
+  padding: 20px;
+  margin: 0px 0px 0px 0px;
+
+}
+.azur {
+  background: #A9E6E6;
+  padding: 20px;
+  margin: 0px 0px 0px 0px;
+
+}
+.lightblue {
+  background: #7692E4;
+  padding: 20px;
+  margin: 0px 0px 0px 0px;
+}
