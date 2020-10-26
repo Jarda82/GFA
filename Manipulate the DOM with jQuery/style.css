@@ -1,0 +1,18 @@
+h1 {
+  color: orange;
+}
+
+h2 {
+  color: purple;
+}
+
+.normal {
+  text-decoration: underline;
+  color: black;
+}
+
+ol {
+  list-style-type: upper-roman;
+  text-decoration: underline;
+  color: #FF69B4;
+}
